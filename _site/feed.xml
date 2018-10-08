@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian E. Jackson</title>
+    <description>A simple yet classy theme for your Jekyll website or blog.
+</description>
+    <link>http://bjack205.github.io/brian.e.jackson/</link>
+    <atom:link href="http://bjack205.github.io/brian.e.jackson/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 08 Oct 2018 09:07:02 -0700</pubDate>
+    <lastBuildDate>Mon, 08 Oct 2018 09:07:02 -0700</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Welcome to my Site!</title>
+        <description>&lt;p&gt;This is my first post here on my website. I hope to frequently add posts here of interesting things I’ve learned, Julia tips, and highlights of my personal and professional development while completing my PhD. Hopefully you will find something useful or insightful!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Apr 2015 01:43:59 -0700</pubDate>
+        <link>http://bjack205.github.io/brian.e.jackson/misc/2015/04/18/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://bjack205.github.io/brian.e.jackson/misc/2015/04/18/welcome-to-jekyll.html</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>Misc</category>
+        
+      </item>
+    
+  </channel>
+</rss>
