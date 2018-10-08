@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://bjack205.github.io/brian.e.jackson/misc/2015/04/18/welcome-to-jekyll.html</loc>
+<loc>http://localhost:4000/brian.e.jackson/misc/2015/04/18/welcome-to-jekyll.html</loc>
 <lastmod>2015-04-18T01:43:59-07:00</lastmod>
 </url>
 <url>
-<loc>http://bjack205.github.io/brian.e.jackson/about/</loc>
+<loc>http://localhost:4000/brian.e.jackson/about/</loc>
 </url>
 <url>
-<loc>http://bjack205.github.io/brian.e.jackson/</loc>
+<loc>http://localhost:4000/brian.e.jackson/</loc>
 </url>
 <url>
-<loc>http://bjack205.github.io/brian.e.jackson/posts/</loc>
+<loc>http://localhost:4000/brian.e.jackson/posts/</loc>
 </url>
 <url>
-<loc>http://bjack205.github.io/brian.e.jackson/publications/</loc>
+<loc>http://localhost:4000/brian.e.jackson/publications/</loc>
 </url>
 <url>
-<loc>http://bjack205.github.io/brian.e.jackson/assets/CV.pdf</loc>
+<loc>http://localhost:4000/brian.e.jackson/assets/CV.pdf</loc>
 <lastmod>2018-10-06T15:25:17-07:00</lastmod>
 </url>
 </urlset>
