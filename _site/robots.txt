@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/brian.e.jackson/sitemap.xml
+Sitemap: http://bjack205.github.io/brian.e.jackson/sitemap.xml

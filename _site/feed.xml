@@ -4,10 +4,10 @@
     <title>Brian E. Jackson</title>
     <description>A simple yet classy theme for your Jekyll website or blog.
 </description>
-    <link>http://localhost:4000/brian.e.jackson/</link>
-    <atom:link href="http://localhost:4000/brian.e.jackson/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Oct 2018 09:16:38 -0700</pubDate>
-    <lastBuildDate>Mon, 08 Oct 2018 09:16:38 -0700</lastBuildDate>
+    <link>http://bjack205.github.io/brian.e.jackson/</link>
+    <atom:link href="http://bjack205.github.io/brian.e.jackson/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 13 Nov 2018 06:42:02 -0800</pubDate>
+    <lastBuildDate>Tue, 13 Nov 2018 06:42:02 -0800</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;This is my first post here on my website. I hope to frequently add posts here of interesting things I’ve learned, Julia tips, and highlights of my personal and professional development while completing my PhD. Hopefully you will find something useful or insightful!&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 01:43:59 -0700</pubDate>
-        <link>http://localhost:4000/brian.e.jackson/misc/2015/04/18/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/brian.e.jackson/misc/2015/04/18/welcome-to-jekyll.html</guid>
+        <link>http://bjack205.github.io/brian.e.jackson/misc/2015/04/18/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://bjack205.github.io/brian.e.jackson/misc/2015/04/18/welcome-to-jekyll.html</guid>
         
         <category>welcome</category>
         
